@@ -21,7 +21,6 @@ df = spark.read.format("csv").option("header", "true").option("delimiter", ";").
 dbutils.fs.ls("wasbs://practica001@strge0001.blob.core.windows.net/Multas")
 
 
-
 # COMMAND ----------
 
 # ESTA ES UNA PRUEBA
@@ -36,3 +35,7 @@ display(df)
 
 #branch Ana Adicion 02
 display(df)
+
+# COMMAND ----------
+
+#MENSAJE COMMANDO 8
