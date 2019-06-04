@@ -27,11 +27,11 @@ print("mensaje 03062019" )
 # COMMAND ----------
 
 
-print("Mensaje 04062019")
 
 print("Nuevo mensaje de Victor para el archivo")
 
 # COMMAND ----------
 
-#OTRO MENSAJE
-print("otro mensaje ")
+print("Mensaje Victor 04062019")
+
+
