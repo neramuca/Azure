@@ -35,3 +35,10 @@ print("Nuevo mensaje de Victor para el archivo")
 print("Mensaje Victor 04062019")
 
 
+# COMMAND ----------
+
+print("Nuevo mensaje 11/06/2019")
+
+# COMMAND ----------
+
+print("Mensaje 02 -11062019")
